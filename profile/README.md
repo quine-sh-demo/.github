@@ -1,4 +1,6 @@
-![Zash Logo](https://github.com/quine-sh-demo/.github/blob/main/profile/zash_logo.png)
+<p align="center" width="100%">
+    <img width="60%" src="https://github.com/quine-sh-demo/.github/blob/main/profile/zash_logo.png">
+</p>
 
 <br/><br/>
 
@@ -14,7 +16,11 @@ To solve this we have launched a multi-chain NFT data indexer which converts con
 
 We recently partnered with an industry giant, Binance to take this to the world! Read all about it [here](https://www.zashfinance.xyz/news/zash-the-enterprise-grade-nft-analytics-platform-announces-partnership-with-binance).
 
-[<img src="https://github.com/quine-sh-demo/.github/blob/main/profile/zash_button.png" width="300" align="center"/>](https://www.zashfinance.xyz/contact)
+<p align="center" width="100%">
+  <a href="https://www.zashfinance.xyz/contact">
+    <img width="33%" src="https://github.com/quine-sh-demo/.github/blob/main/profile/zash_button.png">
+  </a>
+</p>
 
 <br/><br/>
 
@@ -28,4 +34,8 @@ Remote works for us, but we are looking for residence in either London, Ankara o
 
 If you want to work with us, apply below.
 
-<a href="https://quine.sh/apply/81538077" target="_blank" rel="noopener"><img src="https://quine.sh/images/awq/btn-default.png" alt="Apply with Quine" width="412" height="55" /></a>
+<p align="center" width="100%">
+  <a href="https://quine.sh/apply/81538077" target="_blank" rel="noopener">
+    <img width="40%" src="https://quine.sh/images/awq/btn-81538077.png" alt="Apply with Quine">
+  </a>
+</p>
