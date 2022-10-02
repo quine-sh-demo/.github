@@ -1,3 +1,3 @@
 Some readme
 
-![PyTorch Logo](https://github.com/quine-sh-demo/.github/profile/zash-logo.png)
+![PyTorch Logo](https://github.com/quine-sh-demo/.github/profile/zash_logo.png)
