@@ -1,6 +1,8 @@
 ![Zash Logo](https://github.com/quine-sh-demo/.github/blob/main/profile/zash_logo.png)
 
-# About Zash
+<br/><br/>
+
+<h1 align="center">About Zash</h1>
 
 [Zash](http://zash.sh) is the read-middleware and indexing layer for NFTs.  
 
@@ -14,7 +16,9 @@ We recently partnered with an industry giant, Binance to take this to the world!
 
 [<img src="https://github.com/quine-sh-demo/.github/blob/main/profile/zash_button.png" width="300" align="center"/>](https://www.zashfinance.xyz/contact)
 
-# Join our team
+<br/><br/>
+
+<h1 align="center">Join Our Team</h1>
 
 We are a team of 6 passionate technologists, having launched a social network built on blockchain data in 2021. Coming from unicorn AI companies such as Tractable to tradfi such as Goldman Sachs, the team is building necessary infrastructure for data-driven product development on the blockchain, starting with taming the eye of the storm – NFTs. 
 
