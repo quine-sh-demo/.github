@@ -1,9 +1,3 @@
-<p align="center" width="100%">
-    <img width="60%" src="https://github.com/quine-sh-demo/.github/blob/main/profile/zash_logo.png">
-</p>
-
-<br/><br/>
-
 <h1 align="center">About Zash</h1>
 
 [Zash](http://zash.sh) is the read-middleware and indexing layer for NFTs.  
@@ -15,12 +9,6 @@ However indexing NFTs and public blockchains is a major pain, consuming hours of
 To solve this we have launched a multi-chain NFT data indexer which converts convoluted and raw NFT data into cleanly labelled and organised data. As social media is at the crux of NFTs, we go one step further to add metadata from Twitter and Discord ([here](https://zashapi.readme.io/reference/introduction) are our API docs).
 
 We recently partnered with an industry giant, Binance to take this to the world! Read all about it [here](https://www.zashfinance.xyz/news/zash-the-enterprise-grade-nft-analytics-platform-announces-partnership-with-binance).
-
-<p align="center" width="100%">
-  <a href="https://www.zashfinance.xyz/contact">
-    <img width="33%" src="https://github.com/quine-sh-demo/.github/blob/main/profile/zash_button.png">
-  </a>
-</p>
 
 <br/><br/>
 
